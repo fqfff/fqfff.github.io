@@ -3,7 +3,7 @@ title: Qifan Fu
 position: Ph.D. student
 affiliation: Osaka University
 affiliation_link: hhttps://www.econ.osaka-u.ac.jp/en/
-affiliation_logo: 
+affiliation_logo: university-logo-small-horizontal-white-156eae9527.svg
 email: u670245b (at) ecs.osaka-u.ac.jp
 
 # Search Engine Optimization (SEO)
@@ -20,7 +20,7 @@ enable_last_update: false
 # Links
 link_type: text #text/icon
 #google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: ./assets/img/comingsoon.pdf
+cv_link: ./assets/img/Comingsoon.pdf
 linkedin: https://www.linkedin.com/in/fu-qifan-b41361222/
 
 
