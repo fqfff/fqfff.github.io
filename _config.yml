@@ -2,14 +2,14 @@
 title: Qifan Fu
 position: Ph.D. student
 affiliation: Osaka University
-affiliation_link: hhttps://www.econ.osaka-u.ac.jp/en/
-affiliation_logo: university-logo-small-horizontal-white-156eae9527.svg
+affiliation_link: https://www.econ.osaka-u.ac.jp/en/
+affiliation_logo: ./assets/img/university-logo-small-horizontal-blue-156eae9527.svg
 email: u670245b (at) ecs.osaka-u.ac.jp
 
 # Search Engine Optimization (SEO)
 keywords: fuqifan, qifan fu, Fu qifan， Fu Qifan
 canonical: https://www.osaka-u.ac.jp/ja
-description: fuqifan is .
+description: fuqifan's homepage.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -36,7 +36,7 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
