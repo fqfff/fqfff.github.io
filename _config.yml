@@ -7,7 +7,7 @@ affiliation_logo: ./assets/img/university-logo-small-horizontal-blue-156eae9527.
 email: u670245b (at) ecs.osaka-u.ac.jp
 
 # Search Engine Optimization (SEO)
-keywords: fuqifan, qifan fu, Fu qifan， Fu Qifan
+keywords: fuqifan, fqf, qifanfu
 canonical: https://www.osaka-u.ac.jp/ja
 description: fuqifan's homepage.
 
@@ -26,8 +26,8 @@ linkedin: https://www.linkedin.com/in/fu-qifan-b41361222/
 
 # Images 
 avatar: ./assets/img/cc7a1b58125f904f867d1e9eb2ea7e.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/RUNOOB-SVG-IMAGE-2.png
+favicon_dark: ./assets/img/RUNOOB-SVG-IMAGE-2.png
 
 # Footnotes
 footnote: Feel free to use my website's source code.
