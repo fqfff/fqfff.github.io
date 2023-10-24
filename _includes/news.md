@@ -3,7 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2023]</strong> I will participate in the <a href="https://www.aasle.org/taipei-conference-info">AASLE 2023 Conference</a>.</li>
+<li><strong>[Dec. 2023]</strong> I will give a presentation in the <a href="https://www.aasle.org/taipei-conference-info">AASLE 2023 Conference</a>.</li>
+<li><strong>[Oct. 2023]</strong> I will participate in the <a href="https://lcg.tsinghua.edu.cn/rcpy/nltsjh.htm">LCG-THU 2023 Conference</a>.</li>
 <li><strong>[Oct. 2023]</strong> I will be interning at <a href="https://www.ouvc.co.jp/en/">Osaka University Venture Capital</a>.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
