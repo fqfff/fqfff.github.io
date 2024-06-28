@@ -29,7 +29,7 @@
           <abbr class="badge">Working paper</abbr>
         </div>
         <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-          <div class="title"><a href="/assets/img/WX20231015-174747@2x.png">Unemployment benefits and Liquidity effects</a></div>
+          <div class="title"><a href="/assets/img/Unemployment benefits and Liquidity effects1.pdf">Unemployment benefits and Liquidity effects</a></div>
           <div class="author">Qifan Fu</div>
           <div class="links">
             <a href="/assets/img/Unemployment benefits and Liquidity effects1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
