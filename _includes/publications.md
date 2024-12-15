@@ -15,7 +15,7 @@
           <div class="title"><a href="/assets/img/comingsoon.pdf">Climate Change and Occupational Safety: Evidence from Industrial Accidents in Japan</a></div>
           <div class="author">Qifan Fu*, Masaru Sasaki</div>
           <div class="links">
-            <a href="/assets/img/Comingsoon.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="/assets/img/Climate Change and Workplace injury_1114.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
       </div>
