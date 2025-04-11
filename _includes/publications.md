@@ -12,10 +12,10 @@
           <abbr class="badge">Working paper</abbr>
         </div>
         <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-          <div class="title"><a href="/assets/img/Unemployment%20benefits%20and%20Liquidity%20effects1.pdf">Climate Change and Occupational Safety: Evidence from Industrial Accidents in Japan</a></div>
+          <div class="title"><a href="/assets/img/Climate%20Change%20and%20Workplace%20injury_1114.pdf">Climate Change and Occupational Safety: Evidence from Industrial Accidents in Japan</a></div>
           <div class="author">Qifan Fu*, Masaru Sasaki</div>
           <div class="links">
-            <a href="/assets/img/Unemployment%20benefits%20and%20Liquidity%20effects1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="/assets/img/Climate%20Change%20and%20Workplace%20injury_1114.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
       </div>
