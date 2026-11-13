@@ -18,6 +18,7 @@ enable_hopkins_logo: true
 enable_last_update: false
 
 # Links
+google_scholar: "https://scholar.google.com/citations?user=NVyax20AAAAJ&hl=ja&oi=ao"
 link_type: text #text/icon
 cv_link: ./assets/img/Comingsoon.pdf
 linkedin: https://www.linkedin.com/in/fu-qifan-b41361222/
