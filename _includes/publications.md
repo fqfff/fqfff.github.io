@@ -64,8 +64,9 @@
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr">
-          <img src="{{ '/assets/img/WX20231015-174747@2x.png' | relative_url }}" class="teaser img-fluid z-depth-1" alt="Preview of Unemployment benefits and Liquidity effects" loading="lazy" decoding="async">
-          <abbr class="badge">Working paper</abbr>
+          <a href="/assets/img/Unemployment benefits and Liquidity effects1.pdf">
+            <img src="{{ '/assets/img/unemployment_benefits_liquidity_effects.webp' | relative_url }}" class="teaser img-fluid z-depth-1" alt="First-page preview of Unemployment Benefits and Liquidity Effects" loading="lazy" decoding="async">
+          </a>
         </div>
         <div class="col-sm-9">
           <div class="title"><a href="/assets/img/Unemployment benefits and Liquidity effects1.pdf">Unemployment benefits and Liquidity effects</a></div>
