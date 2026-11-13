@@ -7,14 +7,11 @@
   <ol class="bibliography">
     <li>
       <div class="pub-row">
-        {% assign paper_preview = site.static_files | where: "path", "/assets/img/frontiers_fertility_2026.webp" | first %}
-        {% if paper_preview %}
         <div class="col-sm-3 abbr">
           <a href="https://doi.org/10.3389/fhumd.2026.1899647">
-            <img src="/assets/img/frontiers_fertility_2026.webp" class="teaser img-fluid z-depth-1" alt="First-page preview of Too Hot to Give Birth? Temperature Shocks and General Fertility Rates in Japan" loading="lazy" decoding="async">
+            <img src="{{ '/assets/img/frontiers_fertility_2026.webp' | relative_url }}" class="teaser img-fluid z-depth-1" alt="First-page preview of Too Hot to Give Birth? Temperature Shocks and General Fertility Rates in Japan" loading="lazy" decoding="async">
           </a>
         </div>
-        {% endif %}
         <div class="col-sm-9">
           <div class="title"><a href="https://doi.org/10.3389/fhumd.2026.1899647">Too Hot to Give Birth? Temperature Shocks and General Fertility Rates in Japan</a></div>
           <div class="author">Qifan Fu</div>
@@ -27,14 +24,11 @@
     </li>
     <li>
       <div class="pub-row">
-        {% assign paper_preview = site.static_files | where: "path", "/assets/img/systems_heat_risk_2026.webp" | first %}
-        {% if paper_preview %}
         <div class="col-sm-3 abbr">
           <a href="https://doi.org/10.3390/systems14070802">
-            <img src="/assets/img/systems_heat_risk_2026.webp" class="teaser img-fluid z-depth-1" alt="First-page preview of Governing Workplace Heat Risk Under Climate Change: A Tripartite Evolutionary Game of Regulators, Employers, and Workers" loading="lazy" decoding="async">
+            <img src="{{ '/assets/img/systems_heat_risk_2026.webp' | relative_url }}" class="teaser img-fluid z-depth-1" alt="First-page preview of Governing Workplace Heat Risk Under Climate Change: A Tripartite Evolutionary Game of Regulators, Employers, and Workers" loading="lazy" decoding="async">
           </a>
         </div>
-        {% endif %}
         <div class="col-sm-9">
           <div class="title"><a href="https://doi.org/10.3390/systems14070802">Governing Workplace Heat Risk Under Climate Change: A Tripartite Evolutionary Game of Regulators, Employers, and Workers</a></div>
           <div class="author">Qifan Fu</div>
@@ -51,14 +45,11 @@
   <ol class="bibliography">
     <li>
       <div class="pub-row">
-        {% assign paper_preview = site.static_files | where: "path", "/assets/img/iza_workplace_injury_2026.webp" | first %}
-        {% if paper_preview %}
         <div class="col-sm-3 abbr">
           <a href="https://www.iza.org/publications/dp/18592/climate-change-and-workplace-injury">
-            <img src="/assets/img/iza_workplace_injury_2026.webp" class="teaser img-fluid z-depth-1" alt="First-page preview of Climate Change and Workplace Injury" loading="lazy" decoding="async">
+            <img src="{{ '/assets/img/iza_injury_2026.webp' | relative_url }}" class="teaser img-fluid z-depth-1" alt="First-page preview of Climate Change and Workplace Injury" loading="lazy" decoding="async">
           </a>
         </div>
-        {% endif %}
         <div class="col-sm-9">
           <div class="title"><a href="https://www.iza.org/publications/dp/18592/climate-change-and-workplace-injury">Climate Change and Workplace Injury</a></div>
           <div class="author">Qifan Fu and Masaru Sasaki</div>
@@ -73,7 +64,7 @@
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr">
-          <img src="/assets/img/WX20231015-174747@2x.png" class="teaser img-fluid z-depth-1" alt="Preview of Unemployment benefits and Liquidity effects" loading="lazy" decoding="async">
+          <img src="{{ '/assets/img/WX20231015-174747@2x.png' | relative_url }}" class="teaser img-fluid z-depth-1" alt="Preview of Unemployment benefits and Liquidity effects" loading="lazy" decoding="async">
           <abbr class="badge">Working paper</abbr>
         </div>
         <div class="col-sm-9">
